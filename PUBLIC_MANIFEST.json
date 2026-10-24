@@ -1,0 +1,10 @@
+{
+  "scope": "selective public portfolio release",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 2952,
+      "sha256": "dfa70505ee236492cc4dc5ee5716f4e35d61a24be5d4a47ed7dcdc300a3218b3"
+    }
+  ]
+}
